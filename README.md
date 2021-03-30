@@ -18,9 +18,9 @@ Practice use of the Fetch API with async/await to retrieve fake posts from JSON 
 
 ## Screenshots
 
-![Screenshot]()
+![Screenshot](https://user-images.githubusercontent.com/57517804/112935832-22629380-9157-11eb-884f-e1a919808e53.png)
 
-[Demo]()
+[Demo](https://relaxed-euclid-5fb3c3.netlify.app/)
 
 ## Built With
 
